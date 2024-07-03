@@ -1,6 +1,9 @@
 # phone-number-generator
 Phone number generator by chess coin navigation
 
+## Prerequisites
+1. .NET Core 8.0
+
 ## Setup
 1. Ensure all the Nuget packages are updated.
 2. Run the PhoneNumberGenerator project.
